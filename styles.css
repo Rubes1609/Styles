@@ -1,0 +1,121 @@
+/* STYLES */
+
+body {
+    background: rgb(30, 29, 29);
+    color: rgb(216, 216, 216);
+    font-family: 'Cabin', sans-serif;
+}
+
+h1 {
+    font-size: 5em;
+    font-weight:90 ;
+    text-transform:uppercase ;
+    line-height: 145%; ;
+    -webkit-text-stroke:greenyellow;
+    -webkit-text-stroke-width: 2px;
+    color:transparent;
+    letter-spacing: 10px;
+    text-align: right;
+    margin-top:20vh; 
+    }
+
+Main {
+    Width: 750px;
+    display;
+    Max-width: 400;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+p{
+    margin:0 0 10px 0;
+    text-align: ;
+    text-indent: 21px;
+    margin-bottom: 2em;
+    Font-size: 1.2em;
+    line-height: 134%;
+
+}
+
+h2{
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 3.83em;
+    margin-block-end: 3.83em;
+    margin-inline-start: 60px;
+    margin-inline-end: 60px;
+    font-weight: bold;
+    padding: 40px 30px;
+    background-color: greenyellow;
+    text-align:center;
+    border-radius: 8px 5em 8px;
+    color:black
+
+}
+h3{
+    margin-top:2.5em;
+    margin-bottom:2.5em; 
+    text-transform:uppercase;
+    text-align:center;
+    color:greenyellow;
+    font-size: 2.2em;
+}
+    
+
+h4{
+
+    margin-top:4em;
+    margin-bottom:4em;
+    text-transform:uppercase;
+    text-align:center;
+    color:greenyellow;
+    font-size: 2em;
+    width: fit-content ;
+ 
+    Border: 1px solid greenyellow;
+    padding-left: 7px;
+    padding-right: 7px;
+    border-radius: 10px;
+    margin:2em auto 2em
+}
+    
+
+
+a{
+color:greenyellow; 
+font-style: italic;
+Border: 1px solid greenyellow;;
+padding-left: 7px;
+padding-right: 7px;
+border-radius:10px;
+transition: all 1s;
+
+}
+
+a:hover {
+    background-color: yellowgreen;
+    color: black;
+}
+
+
+
+li{
+    padding: 6px;
+    list-style-type: circle;
+    font-size: larger;
+    font-weight: bolder;
+    color: greenyellow;
+
+    
+}
+
+ul{
+    isplay: block;
+    list-style-type: disc;
+    margin-block-start: 5em;
+    margin-block-end: 5em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+    
+}
